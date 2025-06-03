@@ -18,6 +18,24 @@ Technologies Used:
 •	Python for game logic.
 •	Pygame for graphics and sound.
 
+
+# Snake Game using Python and Pygame 🎮🐍
+
+## Description
+This is a classic Snake game built with Python and Pygame. Enjoy real-time movement, smooth controls, and score tracking as you guide the snake to collect food while avoiding collisions.
+
+## Features
+- Real-time movement and smooth controls.
+- Score tracking and game over screen.
+- Colorful and interactive gameplay.
+
+## How to Use
+1. Install dependencies from `requirements.txt` using:
+   ```bash
+   pip install -r requirements.txt
+
+_python snake_game.py_
+
 Future Enhancements:
 •	Add levels and increasing difficulty.
 •	Implement sound effects and background music.
